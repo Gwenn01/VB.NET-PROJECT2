@@ -1,0 +1,17 @@
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\bin\Debug\net6.0-windows\BasicCalculator.exe
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\bin\Debug\net6.0-windows\BasicCalculator.deps.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\bin\Debug\net6.0-windows\BasicCalculator.runtimeconfig.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\bin\Debug\net6.0-windows\BasicCalculator.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\bin\Debug\net6.0-windows\BasicCalculator.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.vbproj.AssemblyReference.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.Form1.resources
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.vbproj.GenerateResource.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.AssemblyInfoInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.AssemblyInfo.vb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.vbproj.CoreCompileInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\refint\BasicCalculator.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\BasicCalculator.genruntimeconfig.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\BasicCalculator\BasicCalculator\obj\Debug\net6.0-windows\ref\BasicCalculator.dll

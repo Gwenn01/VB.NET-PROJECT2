@@ -1,0 +1,17 @@
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\bin\Debug\net6.0-windows\AscendingDescendingOrderProjects.exe
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\bin\Debug\net6.0-windows\AscendingDescendingOrderProjects.deps.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\bin\Debug\net6.0-windows\AscendingDescendingOrderProjects.runtimeconfig.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\bin\Debug\net6.0-windows\AscendingDescendingOrderProjects.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\bin\Debug\net6.0-windows\AscendingDescendingOrderProjects.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\obj\Debug\net6.0-windows\AscendingDescendingOrderProjects.vbproj.AssemblyReference.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\obj\Debug\net6.0-windows\AscendingDescendingOrderProjects.Form1.resources
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\obj\Debug\net6.0-windows\AscendingDescendingOrderProjects.vbproj.GenerateResource.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\obj\Debug\net6.0-windows\AscendingDescendingOrderProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\obj\Debug\net6.0-windows\AscendingDescendingOrderProjects.AssemblyInfoInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\obj\Debug\net6.0-windows\AscendingDescendingOrderProjects.AssemblyInfo.vb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\obj\Debug\net6.0-windows\AscendingDescendingOrderProjects.vbproj.CoreCompileInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\obj\Debug\net6.0-windows\AscendingDescendingOrderProjects.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\obj\Debug\net6.0-windows\refint\AscendingDescendingOrderProjects.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\obj\Debug\net6.0-windows\AscendingDescendingOrderProjects.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\obj\Debug\net6.0-windows\AscendingDescendingOrderProjects.genruntimeconfig.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AscendingDescendingOrderProjects\AscendingDescendingOrderProjects\obj\Debug\net6.0-windows\ref\AscendingDescendingOrderProjects.dll
